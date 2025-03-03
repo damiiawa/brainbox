@@ -1,0 +1,36 @@
+###########################################
+# Syntax Coloring Map For DamiiawaLibs_Brainbox
+###########################################
+ 
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+DamiiawaLibs_Brainbox	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+retroceder	KEYWORD2
+avanzar	KEYWORD2
+detenerse	KEYWORD2
+girarDerecha	KEYWORD2
+girarIzquierda	KEYWORD2
+usoMovimiento	KEYWORD2
+leerLineaIzquierda   KEYWORD2
+leerLineaDerecha   KEYWORD2
+leerBotonA   KEYWORD2
+leerBotonB   KEYWORD2
+leerBotonC   KEYWORD2
+leerBotonD   KEYWORD2
+usoSensores	KEYWORD2
+usoLeds	KEYWORD2
+leerDistancia	KEYWORD2
+ledColor	KEYWORD2
+borrarLeds	KEYWORD2
+finPrograma	KEYWORD2
+pausa	KEYWORD2
+
+###########################################
+# Constants (LITERAL1)
+###########################################
