@@ -27,9 +27,9 @@ La librería actualmente puede facilitar lo siguiente:
 - Realizar giros cerrados.
 - Utilizar matriz de 25 leds + 1 a base de RGB o variables.
 - Emitir notas con zumbador a base de frecuencias o variables.
-- Lecutra digital de botones programables.
-- Lecutra analógica de sensor ultrasonido.
-- Lecutra analógica de sensores de luz para seguimiento de línea.
+- Lectura digital de botones programables.
+- Lectura analógica de sensor ultrasonido.
+- Lectura analógica de sensores de luz para seguimiento de línea.
 
 ## Requisitos
 ### Hardware BrainBox
