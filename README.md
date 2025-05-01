@@ -4,7 +4,7 @@
 > [!TIP]
 > Si necesita ayuda, envíe un correo a [damianastroza@gmail.com](mailto:damianastroza@gmail.com).
 
-![DamiiawaLibs_BrainBox](https://media.discordapp.net/attachments/1346231374188642399/1346231392618676224/DamiiawaLibs_BrainBox.png?ex=67ddd8af&is=67dc872f&hm=16fa26e195a3ea5e5f9c3ac0f3d07bb2a0bcbdb04f9ad545ce5ec6cdd725c57b&=&format=webp&quality=lossless&width=1860&height=620)
+![DamiiawaLibs_BrainBox](https://imgur.com/a/IfnQw6k)
 <h3 align="center">
         <samp> Librería Arduino para
                 <b><a target="_blank" href="http://seguelrobotics.com/">BrainBox</a></b>
